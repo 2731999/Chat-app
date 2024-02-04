@@ -1,4 +1,4 @@
-const host  = 'chat-app-fuu4.vercel.app';
+const host  = 'https://chat-app-p4ty.vercel.app/';
 export const registerRoute = `${host}/api/auth/register`;
 export const loginRoute = `${host}/api/auth/login`;
 export const setAvatarRoute = `${host}/api/auth/setAvatar`;
